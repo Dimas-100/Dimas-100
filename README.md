@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Jr 👋</h1>
+<h1 align="center">Hey there, I'm Dimas 👋</h1>
 
 <p align="center">
   <b>Business Analyst by day · Builder by nature · Learning to code every day</b>
@@ -47,15 +47,15 @@
 ### 📊 My GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimas-100&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimas-100&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-100&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
