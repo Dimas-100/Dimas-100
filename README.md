@@ -30,25 +30,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### Currently focused on
-
-- Building Power Automate flows and Excel VBA macros to eliminate repetitive work
-- Strengthening my Power BI data modeling and DAX skills
-- Learning web development from the fundamentals up
-- Bringing technology and social media into the family construction businesses
 
 ---
 
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=graywhite" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimas-100&show_icons=true&hide_border=true&theme=graywhite" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-100&layout=compact&hide_border=true&theme=graywhite" alt="Top Languages" />
 </p>
 
 ---
