@@ -15,4 +15,4 @@ Business Analyst intern at FM Global. I turn time-consuming business problems in
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-📫 [LinkedIn](https://www.linkedin.com/in/dimasdiaz/) · diazdimas042@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/diazdimas/) · diazdimas042@gmail.com
